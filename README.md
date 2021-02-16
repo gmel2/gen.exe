@@ -1,2 +1,2 @@
-# gen.exe
-a
+ -Gen.exe AIO Best Checker.
+Color: red
